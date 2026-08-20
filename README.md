@@ -1,10 +1,5 @@
 <h1 data-importer="text" align="center">★Olá! Seja Bem-Vindo</h1>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/anaapatussi-prog/anaapatussi-prog/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <p data-importer="text" align="left">Sou estudante de Engenharia de Software, interessada em tecnologia, programação e desenvolvimento de soluções inovadoras. Atualmente, estou aprimorando meus conhecimentos em HTML, CSS, JavaScript, Python e desenvolvimento de sistemas, buscando sempre aprender na prática por meio de projetos. Sou curiosa, dedicada e gosto de transformar ideias em soluções, sempre buscando evoluir profissionalmente na área de tecnologia.</p>
 
@@ -60,9 +55,5 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/anaapatussi-prog/anaapatussi-prog/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/anaapatussi-prog/anaapatussi-prog/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
